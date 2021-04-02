@@ -96,6 +96,13 @@ Using the reviews array above do the following: (no function needed)
   2. log the whole array to the console, make sure the new review is inside of it   
 */
 
+reviews.push({
+  name: "Mike",
+  rating: 4.5,
+  feedback: "Nice atmosphere. It would be great if there is a smoking section though." 
+});
+
+console.log(reviews);
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 5: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
